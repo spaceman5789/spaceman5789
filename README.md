@@ -58,7 +58,6 @@
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-denzonazarov%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:denzonazarov@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nazarovdenis2803%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nazarovdenis2803@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40sorrybutimsober-26A5E4?logo=telegram&logoColor=white)](https://t.me/sorrybutimsober)
 [![Portfolio](https://img.shields.io/badge/Portfolio-denzo--portfolio.site-222222?logo=googlechrome&logoColor=white)](https://denzo-portfolio.site)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman5789&show_icons=true&hide_border=true&theme=transparent)
